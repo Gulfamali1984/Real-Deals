@@ -1,0 +1,8 @@
+{
+  "name": "Remix ApexPulse ERP - Multi-Warehouse Inventory \u0026 Logistics",
+  "description": "Enterprise ERP web application for industrial electronics procurement, multi-warehouse inventory tracking, logistics, serial tracking, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
